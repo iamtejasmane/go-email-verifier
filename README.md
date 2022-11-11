@@ -20,6 +20,6 @@ Run the code
 
 `go run main.go`
 
-Enter the email address to the console, for example
+Enter email address to the console, for example
 
 `mailchimp.com`
